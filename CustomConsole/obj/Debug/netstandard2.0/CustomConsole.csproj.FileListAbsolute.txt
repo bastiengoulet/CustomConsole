@@ -6,3 +6,4 @@ C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.A
 C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.csproj.CoreCompileInputs.cache
 C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.dll
 C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.pdb
+C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.csprojAssemblyReference.cache

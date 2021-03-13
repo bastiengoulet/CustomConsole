@@ -42,11 +42,6 @@ namespace CustomConsole
             return doubleReader.ReadDoubleGreaterThan(message, lesserLimit);
         }
 
-        public static void UpdateSalary(string message, ref double currentsalary)
-        {
-            doubleReader.UpdateSalary(message, ref currentsalary);
-        }
-
         public static int ReadInt32(string message)
         {
             return (int)int32Reader.ReadFromUser(message);
