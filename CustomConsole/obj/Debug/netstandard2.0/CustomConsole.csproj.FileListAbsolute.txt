@@ -1,0 +1,8 @@
+C:\dev\.NET\CustomConsole\CustomConsole\bin\Debug\netstandard2.0\CustomConsole.deps.json
+C:\dev\.NET\CustomConsole\CustomConsole\bin\Debug\netstandard2.0\CustomConsole.dll
+C:\dev\.NET\CustomConsole\CustomConsole\bin\Debug\netstandard2.0\CustomConsole.pdb
+C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.AssemblyInfoInputs.cache
+C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.AssemblyInfo.cs
+C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.csproj.CoreCompileInputs.cache
+C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.dll
+C:\dev\.NET\CustomConsole\CustomConsole\obj\Debug\netstandard2.0\CustomConsole.pdb
